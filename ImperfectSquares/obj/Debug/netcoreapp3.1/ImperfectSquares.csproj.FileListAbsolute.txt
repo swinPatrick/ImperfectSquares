@@ -1,0 +1,14 @@
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\obj\Debug\netcoreapp3.1\ImperfectSquares.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\obj\Debug\netcoreapp3.1\ImperfectSquares.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\obj\Debug\netcoreapp3.1\ImperfectSquares.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\obj\Debug\netcoreapp3.1\ImperfectSquares.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\bin\Debug\netcoreapp3.1\ImperfectSquares.exe
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\bin\Debug\netcoreapp3.1\ImperfectSquares.deps.json
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\bin\Debug\netcoreapp3.1\ImperfectSquares.runtimeconfig.json
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\bin\Debug\netcoreapp3.1\ImperfectSquares.runtimeconfig.dev.json
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\bin\Debug\netcoreapp3.1\ImperfectSquares.dll
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\bin\Debug\netcoreapp3.1\ImperfectSquares.pdb
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\obj\Debug\netcoreapp3.1\ImperfectSquares.dll
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\obj\Debug\netcoreapp3.1\ImperfectSquares.pdb
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\obj\Debug\netcoreapp3.1\ImperfectSquares.genruntimeconfig.cache
+C:\Users\Patrick\source\repos\ImperfectSquares\ImperfectSquares\bin\Debug\netcoreapp3.1\primes-to-100k.txt
